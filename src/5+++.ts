@@ -11,3 +11,5 @@ const fruit: Fruit = {
 };
 
 fruit.orange = 78;
+
+console.log("Hello")
